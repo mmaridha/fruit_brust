@@ -1,0 +1,58 @@
+
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@800&family=Lato:wght@400;700;900&display=swap');
+
+
+*{
+    outline: none;
+}
+
+
+.goodboy{
+    color: rgba(18, 18, 18, 0.60);
+}
+
+
+
+.primary-bg{
+    background: #F85559;
+}
+
+
+
+.primary-btn{
+    color: #fff;
+    background: #F85559;
+    border-radius: 8px;
+    padding: 20px 30px;
+    text-transform: capitalize;
+
+
+}
+.btn-modified{
+    padding: 16px 30px;
+    color: #fff;
+    background: #F85559;
+    border-radius: 8px;
+    text-transform: capitalize;
+}
+
+
+body{
+    font-family: 'Lato', sans-serif;
+}
+.team-bg{
+    background-image: url(../images/team.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.btn-circle{
+    background: black;
+    color: white;
+    border: none;
+}
+.btn-circle:hover{
+    background: black;
+    color: white;
+
+}
